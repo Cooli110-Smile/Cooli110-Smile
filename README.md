@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cooli110-Smile
+- 👋 Hi, I’m @Cooli110-Smile also known as GermanAustra
 - 👀 I’m interested in coding a Discord Bot
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me on Discord! (Current Username: Traps ain't gay#6613)
