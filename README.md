@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cooli110-Smile also known as GermanAustra
-- 👀 I’m interested in coding a Discord Bot
+- 👋 Hi, I’m @GermanAustra
+- 👀 I’m interested in coding Discord Bots
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me on Discord! (Current Username: broders112#6613)
+- 📫 How to reach me on Discord! (Current Username: Mhm Mhm#6613)
 
 <!---
 Cooli110-Smile/Cooli110-Smile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
